@@ -1,6 +1,8 @@
 <h2 align="center">Hi there 👋</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Saqlain+Afroz%2C+an+aspiring+astrophysicist%2C+skilled+in+gravitational+wave+astrophysics%2C+machine+learning%2C+and+scientific+computing.)](https://git.io/typing-svg)
+I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave astrophysics, machine learning, and scientific computing.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=300&center=true&vCenter=true&multiline=true&width=435&lines=I'm+Saqlain+Afroz%2C;+an+aspiring+astrophysicist%2C+skilled;+in+gravitational+wave+astrophysics%2C+;machine+learning%2C+;and+scientific+computing.)](https://git.io/typing-svg)
 
 ---
 
