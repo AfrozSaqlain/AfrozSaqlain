@@ -6,7 +6,7 @@ I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave ast
 
 ### 📊 My GitHub Stats
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -20,13 +20,14 @@ I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave ast
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2" align="center">
       <a href="https://git.io/streak-stats">
-       <img src="https://github-readme-streak-stats.herokuapp.com?user=AfrozSaqlain&theme=transparent" alt="Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=AfrozSaqlain&theme=transparent" alt="Streak"/>
       </a>    
     </td>
   </tr>
 </table>
+
 
 ---
 
