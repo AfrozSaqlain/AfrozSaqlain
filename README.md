@@ -23,8 +23,8 @@ I'm a passionate developer from Pune, India. I love building web applications an
 
 ### 📫 How to Reach Me
 
-* **LinkedIn**: [my-linkedin-profile](https://www.linkedin.com/in/saqlain-afroz-7a47961b8/)
-* **Instagram**: [@my-instagram-handle](https://www.instagram.com/afroz_3680/)
+* **LinkedIn**: [saqlain-afroz](https://www.linkedin.com/in/saqlain-afroz-7a47961b8/)
+* **Instagram**: [@afroz_3680](https://www.instagram.com/afroz_3680/)
 
 <!--
 Here are some ideas to get you started:
