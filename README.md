@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋</h2>
 
 I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave astrophysics, machine learning, and scientific computing.
-
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 ---
 
 <h2 align="center">🚀 My GitHub Stats</h2>
