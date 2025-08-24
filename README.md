@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a passionate developer from Pune, India. I love building web applications and learning new technologies.
+I am an astrophysicist by passion and profession. I work in Black Hole physics, gravitational waves, and machine learning.
 
 ---
 
@@ -15,9 +15,9 @@ I'm a passionate developer from Pune, India. I love building web applications an
 
 ### 📊 My GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AfrozSaqlain&show_icons=true&theme=radical&count_private=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Afroz's GitHub Journey](https://github-readme-stats.vercel.app/api?username=AfrozSaqlain&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=Afroz's%20GitHub%20Journey)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfrozSaqlain&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfrozSaqlain&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
