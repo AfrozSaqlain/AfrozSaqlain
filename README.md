@@ -29,7 +29,7 @@ I am an astrophysicist by passion and profession. I work in Black Hole physics, 
     </td>
   </tr>
 </table>
----
+
 
 ### 📫 How to Reach Me
 
