@@ -1,10 +1,10 @@
-## Hi there 👋
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0f79a8fb-1f9e-459d-a6fc-8421ce423d39" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/82d0e9f3-adcb-426c-8225-63a8d1a51ce5" /><h2 align="center">Hi there 👋</h2>
 
 I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave astrophysics, machine learning, and scientific computing.
 
 ---
 
-### 📊 My GitHub Stats
+<h2 align="center">🚀 My GitHub Stats</h2>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
   <tr>
@@ -31,7 +31,7 @@ I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave ast
 
 ---
 
-### 🐍 My Contribution Graph
+<h2 align="center">🐍 My Contribution Graph</h2
 
 ![github snake animation](https://github.com/AfrozSaqlain/AfrozSaqlain/blob/output/github-snake-dark.svg)
 <!--
