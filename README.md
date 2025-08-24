@@ -19,11 +19,10 @@ I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave ast
       </a>
     </td>
   </tr>
+  <tr>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AfrozSaqlain&theme=transparent)](https://git.io/streak-stats)
+  </tr>
 </table>
-
----
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AfrozSaqlain&theme=transparent)](https://git.io/streak-stats)
 
 ---
 
