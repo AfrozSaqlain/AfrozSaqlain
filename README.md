@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0f79a8fb-1f9e-459d-a6fc-8421ce423d39" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/82d0e9f3-adcb-426c-8225-63a8d1a51ce5" /><h2 align="center">Hi there 👋</h2>
+<h2 align="center">Hi there 👋</h2>
 
 I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave astrophysics, machine learning, and scientific computing.
 
