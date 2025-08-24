@@ -1,7 +1,5 @@
 <h2 align="center">Hi there 👋</h2>
 
-I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave astrophysics, machine learning, and scientific computing.
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+an+aspiring+astrophysicist%2C;skilled+in+GW+astrophysics%2C+;machine+learning%2C+;and+scientific+computing." alt="Typing SVG" />
