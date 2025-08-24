@@ -9,7 +9,7 @@
 
 ---
 
-<h2 align="center">🚀 My GitHub Stats</h2>
+<h2 align="center">My GitHub Stats 🚀</h2>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
   <tr>
@@ -39,7 +39,7 @@
 
 ---
 
-<h2 align="center">🐍 My Contribution Graph</h2
+<h2 align="center">My Contribution Graph 🐍</h2
 
 ![github snake animation](https://github.com/AfrozSaqlain/AfrozSaqlain/blob/output/github-snake-dark.svg)
 <!--
