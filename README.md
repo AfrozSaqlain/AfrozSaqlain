@@ -30,12 +30,6 @@ I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave ast
   </tr>
 </table>
 
-<Feedback
-  icon
-  variant="success"
-  title="Feedback element"
-  description="Longer description of the feedback message."
-/>
 
 <!--
 Here are some ideas to get you started:
