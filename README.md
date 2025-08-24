@@ -30,12 +30,6 @@ I am an astrophysicist by passion and profession. I work in Black Hole physics, 
   </tr>
 </table>
 
-
-### 📫 How to Reach Me
-
-* **LinkedIn**: [saqlain-afroz](https://www.linkedin.com/in/saqlain-afroz-7a47961b8/)
-* **Instagram**: [@afroz_3680](https://www.instagram.com/afroz_3680/)
-
 <!--
 Here are some ideas to get you started:
 
