@@ -15,10 +15,20 @@ I am an astrophysicist by passion and profession. I work in Black Hole physics, 
 
 ### 📊 My GitHub Stats
 
-[![Afroz's GitHub Journey](https://github-readme-stats.vercel.app/api?username=AfrozSaqlain&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=Afroz's%20GitHub%20Journey)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfrozSaqlain&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=css)](https://github.com/anuraghazra/github-readme-stats)
-
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=AfrozSaqlain&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=Afroz's%20GitHub%20Journey&hide=prs" alt="Afroz's GitHub Journey"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrozSaqlain&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=css,Jupyter%20Notebook" alt="Top Languages"/>
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📫 How to Reach Me
