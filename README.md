@@ -30,6 +30,11 @@ I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave ast
   </tr>
 </table>
 
+---
+
+### 🐍 My Contribution Graph
+
+![Snake animation](https://github.com/AfrozSaqlain/AfrozSaqlain/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 Here are some ideas to get you started:
