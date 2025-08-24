@@ -2,7 +2,6 @@
 
 I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave astrophysics, machine learning, and scientific computing.
 
-![](https://komarev.com/ghpvc/?username=AfrozSaqlain)
 ---
 
 <h2 align="center">🚀 My GitHub Stats</h2>
@@ -29,6 +28,7 @@ I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave ast
   </tr>
 </table>
 
+![](https://komarev.com/ghpvc/?username=AfrozSaqlain)
 
 ---
 
