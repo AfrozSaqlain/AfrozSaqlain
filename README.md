@@ -28,7 +28,9 @@ I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave ast
   </tr>
 </table>
 
-![](https://komarev.com/ghpvc/?username=AfrozSaqlain)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AfrozSaqlain" alt="Profile views" />
+</p>
 
 ---
 
