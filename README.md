@@ -2,8 +2,7 @@
 
 I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave astrophysics, machine learning, and scientific computing.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Journey+into+the+Cosmos)](https://git.io/typing-svg)
-
+![](https://komarev.com/ghpvc/?username=AfrozSaqlain)
 ---
 
 <h2 align="center">🚀 My GitHub Stats</h2>
