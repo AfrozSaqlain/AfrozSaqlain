@@ -4,7 +4,7 @@ I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave ast
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+an+aspiring+astrophysicist%2C;skilled+in+gravitational+wave%2C+;machine+learning%2C+;and+scientific+computing." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+an+aspiring+astrophysicist%2C;skilled+in+GW+astrophysics%2C+;machine+learning%2C+;and+scientific+computing." alt="Typing SVG" />
   </a>
 </p>
 
