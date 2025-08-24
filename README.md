@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an astrophysicist by passion and profession. I work in Black Hole physics, gravitational waves, and machine learning.
+I am a BS-MS Physics graduate from IISER Kolkata, worked at the intersection of gravitational wave physics, machine learning, and quantum computing. My research focuses on fast parameter estimation, signal classification, and quantum simulations of black holes. Interested in general relativity, gravitational wave astrophysics, machine learning, quantum computation, and multi-messenger astronomy. Seeking a doctoral position at a reputable research organization to further pursue these interests and contribute to cutting-edge developments in fundamental physics.
 
 ---
 
