@@ -4,15 +4,6 @@ I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave ast
 
 ---
 
-### 🛠️ My Tech Stack
-
-* **Languages**: Python, C/C++, Julia
-* **Frameworks**: PyTorch, Tensorflow, Bilby, PyCBC
-* **Databases**: MongoDB, PostgreSQL
-* **Tools**: Git, Docker, VS Code
-
----
-
 ### 📊 My GitHub Stats
 
 <table align="center">
@@ -29,6 +20,10 @@ I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave ast
     </td>
   </tr>
 </table>
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AfrozSaqlain&theme=transparent)](https://git.io/streak-stats)
 
 ---
 
