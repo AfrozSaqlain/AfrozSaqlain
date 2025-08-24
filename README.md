@@ -6,8 +6,8 @@ I'm a passionate developer from Pune, India. I love building web applications an
 
 ### 🛠️ My Tech Stack
 
-* **Languages**: JavaScript, Python, HTML/CSS
-* **Frameworks**: React, Node.js, Django
+* **Languages**: Python, C/C++, Julia
+* **Frameworks**: PyTorch, Tensorflow, Bilby, PyCBC
 * **Databases**: MongoDB, PostgreSQL
 * **Tools**: Git, Docker, VS Code
 
@@ -23,8 +23,8 @@ I'm a passionate developer from Pune, India. I love building web applications an
 
 ### 📫 How to Reach Me
 
-* **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-profile/)
-* **Twitter**: [@your-twitter-handle](https://twitter.com/your-handle)
+* **LinkedIn**: [my-linkedin-profile](https://www.linkedin.com/in/saqlain-afroz-7a47961b8/)
+* **Instagram**: [@my-instagram-handle](https://www.instagram.com/afroz_3680/)
 
 <!--
 Here are some ideas to get you started:
