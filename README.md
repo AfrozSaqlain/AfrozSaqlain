@@ -6,7 +6,7 @@ I'm Saqlain Afroz, an aspiring astrophysicist, skilled in gravitational wave ast
 
 <h2 align="center">🚀 My GitHub Stats</h2>
 
-<table align="center" border="0" cellspacing="12" cellpadding="0" style="border-collapse: collapse; border: none;">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
