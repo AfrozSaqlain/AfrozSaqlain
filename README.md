@@ -15,7 +15,7 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=AfrozSaqlain&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=Afroz's%20GitHub%20Journey&hide=prs" alt="Afroz's GitHub Journey"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=AfrozSaqlain&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=Afroz's%20GitHub%20Journey" alt="Afroz's GitHub Journey"/>
       </a>
     </td>
     <td>
