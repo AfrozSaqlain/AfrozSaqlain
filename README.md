@@ -42,6 +42,10 @@
 <h2 align="center">My Contribution Graph 🐍</h2
 
 ![github snake animation](https://github.com/AfrozSaqlain/AfrozSaqlain/blob/output/github-snake-dark.svg)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 <!--
 ![Snake animation](https://github.com/AfrozSaqlain/AfrozSaqlain/blob/output/github-contribution-grid-snake.svg)
 -->
