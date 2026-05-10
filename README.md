@@ -15,12 +15,12 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-stats-kappa-sable.vercel.app/api?username=AfrozSaqlain&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=Afroz%27s%20GitHub%20Journey" alt="Top Languages"/>
+        <img src="https://github-stats-saqlain-afrozs-projects.vercel.app/api?username=AfrozSaqlain&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=Afroz%27s%20GitHub%20Journey" alt="Top Languages"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-stats-kappa-sable.vercel.app/api/top-langs/?username=AfrozSaqlain&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=css,Jupyter%20Notebook" alt="Afroz's GitHub Journey"/>
+        <img src="https://github-stats-saqlain-afrozs-projects.vercel.app/api/top-langs/?username=AfrozSaqlain&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=css,Jupyter%20Notebook" alt="Afroz's GitHub Journey"/>
       </a>
     </td>
   </tr>
