@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+an+aspiring+astrophysicist%2C;skilled+in+GW+astrophysics%2C+;machine+learning%2C+;and+scientific+computing." alt="Typing SVG" />
   </a>
 </p>
-https://github-stats-saqlain-afrozs-projects.vercel.app/
+
 
 ---
 
