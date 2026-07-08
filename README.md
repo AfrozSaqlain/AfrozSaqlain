@@ -26,9 +26,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      ![Stats](./profile/stats.svg)
-      ![Top Languages](./profile/top-langs.svg)
-      ![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)   
+      Hi
     </td>
   </tr>
 </table>
@@ -36,7 +34,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AfrozSaqlain" alt="Profile views" />
 </p>
-
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)   
 ---
 
 <h2 align="center">My Contribution Graph 🐍</h2
