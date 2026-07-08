@@ -27,7 +27,7 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://git.io/streak-stats">
-        <img src="./profile/streak.svg&theme=dark" alt="GitHub Streak"/>
+        <img src="./profile/streak.svg" alt="GitHub Streak"/>
       </a>
     </td>
   </tr>
