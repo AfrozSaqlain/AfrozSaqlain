@@ -26,9 +26,9 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=AfrozSaqlain&theme=transparent" alt="Streak"/>
-      </a>    
+      ![Stats](./profile/stats.svg)
+      ![Top Languages](./profile/top-langs.svg)
+      ![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)   
     </td>
   </tr>
 </table>
