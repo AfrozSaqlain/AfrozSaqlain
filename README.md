@@ -27,8 +27,8 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=AfrozSaqlain&theme=transparent" alt="Streak"/>
-      </a>    
+        <img src="./profile/streak.svg" alt="GitHub Streak"/>
+      </a>
     </td>
   </tr>
 </table>
