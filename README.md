@@ -20,7 +20,7 @@
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-stats-kappa-sable.vercel.app/api/top-langs/?username=AfrozSaqlain&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&hide=css,Jupyter%20Notebook" alt="Afroz's GitHub Journey"/>
+        <img src="https://github-stats-kappa-sable.vercel.app/api/top-langs/?username=AfrozSaqlain&layout=compact&theme=tokyonight&hide_border=true&langs_count=14&hide=css,Jupyter%20Notebook" alt="Afroz's GitHub Journey"/>
       </a>
     </td>
   </tr>
